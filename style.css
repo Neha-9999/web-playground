@@ -1,0 +1,61 @@
+body {
+  border-radius: 10px;
+  border: 1px solid rgb(231, 218, 218);
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: 15pc;
+  margin-right: 15pc;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(24, 24, 150);
+}
+.main {
+  background-color: beige;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid none;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-size: 20px;
+}
+
+.company-name {
+  font-size: 40px;
+
+  border: 1px solid none;
+  /* padding-top: 1px;
+    margin-top: 1px; */
+}
+aside > img {
+  border: 1px solid none;
+  width: 300px;
+  height: 400px;
+  float: right;
+}
+
+.about {
+  border: 1px solid none;
+  width: 60%;
+}
+article {
+  color: gray;
+}
+footer > p {
+  color: gray;
+
+  padding-top: 2px;
+}
+footer > p > img {
+  height: 20px;
+}
+
+h1 {
+  margin-top: 10px;
+
+  margin-bottom: 1px;
+  padding-top: 1px;
+}
