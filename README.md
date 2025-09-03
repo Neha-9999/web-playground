@@ -29,7 +29,7 @@ wscats.cors-browser
 Company Profile Website
 
 A simple and responsive Company Profile Website built using HTML5 and CSS3.
-This project demonstrates the use of semantic HTML elements (header, section, article, aside, footer), styling with CSS, and integration of images/icons to create a professional company profile page.
+This project demonstrates the use of semantic HTML elements (header, section, article, aside, footer), styling with CSS and integration of images/icons to create a professional company profile page.
 
     #Features
 
